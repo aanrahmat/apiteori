@@ -1,0 +1,94 @@
+{
+  "result": [
+    {
+      "no": "1",
+      "name": "Harley-Davidson Sportster Iron 883",
+      "release_date": "2009-01-01",
+      "Type": "Cruiser",
+      "Country": "USA",
+      "Brand": "Harley-Davidson",
+      "Poster": "https://cdn.motor1.com/images/mgl/7bRPW/s3/2021-harley-davidson-sportster-iron-883.jpg"
+    },
+    {
+      "no": "2",
+      "name": "Honda CB750",
+      "release_date": "1969-11-01",
+      "Type": "Standard",
+      "Country": "Japan",
+      "Brand": "Honda",
+      "Poster": "https://cdn.motor1.com/images/mgl/qLpRE/s1/1969-honda-cb750.jpg"
+    },
+    {
+      "no": "3",
+      "name": "Ducati Panigale V4",
+      "release_date": "2018-01-01",
+      "Type": "Sportbike",
+      "Country": "Italy",
+      "Brand": "Ducati",
+      "Poster": "https://cdn.motor1.com/images/mgl/LgG6J/s1/2022-ducati-panigale-v4.jpg"
+    },
+    {
+      "no": "4",
+      "name": "Kawasaki Ninja ZX-6R",
+      "release_date": "1995-01-01",
+      "Type": "Sportbike",
+      "Country": "Japan",
+      "Brand": "Kawasaki",
+      "Poster": "https://cdn.motor1.com/images/mgl/LgG6J/s1/2022-ducati-panigale-v4.jpg"
+    },
+    {
+      "no": "5",
+      "name": "BMW R1250GS",
+      "release_date": "1980-01-01",
+      "Type": "Adventure",
+      "Country": "Germany",
+      "Brand": "BMW",
+      "Poster": "https://cdn.motor1.com/images/mgl/0J5Y0/s1/2021-bmw-r1250gs.jpg"
+    },
+    {
+      "no": "6",
+      "name": "Yamaha YZF-R1",
+      "release_date": "1998-01-01",
+      "Type": "Sportbike",
+      "Country": "Japan",
+      "Brand": "Yamaha",
+      "Poster": "https://cdn.motor1.com/images/mgl/ZweP2/s1/2021-yamaha-yzf-r1-2.jpg"
+    },
+    {
+      "no": "7",
+      "name": "Suzuki GSX-R750",
+      "release_date": "1985-01-01",
+      "Type": "Sportbike",
+      "Country": "Japan",
+      "Brand": "Suzuki",
+      "Poster": "https://cdn.motor1.com/images/mgl/pkQ7y/s1/2021-suzuki-gsx-r750-100th-anniversary-edition.jpg"
+    },
+    {
+      "no": "8",
+      "name": "Triumph Bonneville T120",
+      "release_date": "1959-01-01",
+      "Type": "Standard",
+      "Country": "UK",
+      "Brand": "Triumph",
+      "Poster": "https://cdn.motor1.com/images/mgl/e3p3W/s1/triumph-bonneville-t120-black-2021.jpg"
+    },
+    {
+      "no": "9",
+      "name": "KTM 1290 Super Duke R",
+      "release_date": "2014-01-01",
+      "Type": "Naked",
+      "Country": "Austria",
+      "Brand": "KTM",
+      "Poster": "https://cdn.motor1.com/images/mgl/o0q9e/s1/2020-ktm-1290-super-duke-r.jpg"
+    },
+    {
+      "no": "10",
+      "name": "Indian Scout",
+      "release_date": "1920-01-01",
+      "Type": "Cruiser",
+      "Country": "USA",
+      "Brand": "Indian",
+      "Poster": "https://cdn.motor1.com/images/mgl/nRqO2/s1/2021-indian-scout-sixty.jpg"
+    }
+  ]
+}
